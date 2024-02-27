@@ -12,9 +12,9 @@ My proficiency spans *AI, Machine Learning, Neural Networks, and Deep Learning*,
 
 **Interests:** Generative AI, Human-Centered AI, Ethical AI, Hiking, Nature, Social Change, Climate Change, Travel, Mindfulness
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on this page.
 
-
+![uc-berkeley-logo-seal_2](https://github.com/dkham/dkham/assets/72950291/5ad186e5-859c-4a89-a33d-69776f18cc7b)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dkham)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/daisykhamphakdy/)  
 
 
