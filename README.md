@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Daisy
+### Hi there 👋, my name is Daisy 🌸
 #### I am passionate Data Scientist
 ![data-scientist-word-banner-vector](https://github.com/dkham/dkham/assets/72950291/c3bd39a5-14b2-4c99-9b69-b379c5bd3b28)
 
@@ -12,12 +12,35 @@ My proficiency spans *AI, Machine Learning, Neural Networks, and Deep Learning*,
 
 **Interests:** Generative AI, Human-Centered AI, Ethical AI, Hiking, Nature, Social Change, Climate Change, Travel, Mindfulness
 
-- 🔭 I’m currently working on this page.
 
-![uc-berkeley-logo-seal_2](https://github.com/dkham/dkham/assets/72950291/5ad186e5-859c-4a89-a33d-69776f18cc7b)
+### ❤ I love working with
+Python, SQL
+
+### 🔭 I’m working on
+- Projects for freelance clients.
+- This page.
+
+### 🤔 I’m looking for help with
+
+- Integrating AI models to web applications
+
+### 🌳 Interests
+
+Generative AI, Human-Centered AI, Ethical AI, Hiking, Nature, Social Change, Climate Change, Travel, Mindfulness
+
+### ⚡ Fun fact
+
+I've always considered myself a dog person, until this beautiful thing came into my life. 
+<img width="421" alt="Screen Shot 2024-02-27 at 9 23 44 AM" src="https://github.com/dkham/dkham/assets/72950291/abf28c61-c54d-43b4-a0fb-865ddf8243ac">
+
+### 📫 How to reach me
+
+✉️ dkhamphakdy@gmail.com, dkham@berkeley.edu
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dkham)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/daisykhamphakdy/)  
 
 
+![uc-berkeley-logo-seal_2](https://github.com/dkham/dkham/assets/72950291/5ad186e5-859c-4a89-a33d-69776f18cc7b)
 
 
 <!--
