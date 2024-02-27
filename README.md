@@ -1,14 +1,16 @@
 ### Hi there 👋, my name is Daisy
 #### I am passionate Data Scientist
-![I am Data Scientist](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![data-scientist-word-banner-vector](https://github.com/dkham/dkham/assets/72950291/c3bd39a5-14b2-4c99-9b69-b379c5bd3b28)
 
-I have a recent Master's Degree in Data Science from UC Berkeley and over a decade of expertise in analytics, metric development, and comprehensive evaluations for continuous improvement within the social sector. And I am eager to apply my skill set to the tech space. 
+I have a recent Master's Degree in Data Science from UC Berkeley and over a decade of expertise in analytics, metric development, and comprehensive evaluations for continuous improvement within the social sector. I am eager to be applying my skill set to the tech space. 
 
-My proficiency spans *AI, Machine Learning, Neural Networks, and Deep Learning*, demonstrated through successful project execution with cutting-edge technologies. I specialize in leveraging advanced techniques for actionable insights and meaningful outcomes. With a robust background in both machine learning and statistical methodologies, I excel at solving complex problems and optimizing processes. My unwavering passion for data-driven decision-making drives me to continually push boundaries and deliver impactful solutions.
+My proficiency spans *AI, Machine Learning, Neural Networks, and Deep Learning*, demonstrated through successful project execution with cutting-edge technologies. I specialize in leveraging advanced techniques for actionable insights and meaningful outcomes. My unwavering passion for data-driven decision-making drives me to continually push boundaries and deliver impactful solutions.
 
 **Technical Skills:** Python / SQL / R / HTML / Javascript
 
 **Professional Skills:** Data Science | Data Analysis | Product Analysis | Advanced Analytics | Business Intelligence (BI) | Performance Metrics | Project Management | Probability/Statistics | Data Engineering | Feature Engineering | Data Visualization | Data Architecture | Data Management | Data Governance | Data Models | Experimental Design | Agile Design | Problem Solving | Artificial Intelligence (AI) | Machine Learning | Algorithms | Neural Networks | Deep Learning | Supervised & Unsupervised Learning | Predictive Modeling | Statistical Modeling | Regression Models | Natural Language Processing (NLP) 
+
+**Interests:** Generative AI, Human-Centered AI, Ethical AI, Hiking, Nature, Social Change, Climate Change, Travel, Mindfulness
 
 - 🔭 I’m currently working on this page. 
 
