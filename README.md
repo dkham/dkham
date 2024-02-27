@@ -10,7 +10,6 @@ My proficiency spans *AI, Machine Learning, Neural Networks, and Deep Learning*,
 
 **Professional Skills:** Data Science | Data Analysis | Product Analysis | Advanced Analytics | Business Intelligence (BI) | Performance Metrics | Project Management | Probability/Statistics | Data Engineering | Feature Engineering | Data Visualization | Data Architecture | Data Management | Data Governance | Data Models | Experimental Design | Agile Design | Problem Solving | Artificial Intelligence (AI) | Machine Learning | Algorithms | Neural Networks | Deep Learning | Supervised & Unsupervised Learning | Predictive Modeling | Statistical Modeling | Regression Models | Natural Language Processing (NLP) 
 
-**Interests:** Generative AI, Human-Centered AI, Ethical AI, Hiking, Nature, Social Change, Climate Change, Travel, Mindfulness
 
 
 ### ❤ I love working with
