@@ -7,6 +7,7 @@ I have a recent Master's Degree in Data Science from UC Berkeley and over a deca
 My proficiency spans *AI, Machine Learning, Neural Networks, and Deep Learning*, demonstrated through successful project execution with cutting-edge technologies. I specialize in leveraging advanced techniques for actionable insights and meaningful outcomes. With a robust background in both machine learning and statistical methodologies, I excel at solving complex problems and optimizing processes. My unwavering passion for data-driven decision-making drives me to continually push boundaries and deliver impactful solutions.
 
 **Technical Skills:** Python / SQL / R / HTML / Javascript
+
 **Professional Skills:** Data Science | Data Analysis | Product Analysis | Advanced Analytics | Business Intelligence (BI) | Performance Metrics | Project Management | Probability/Statistics | Data Engineering | Feature Engineering | Data Visualization | Data Architecture | Data Management | Data Governance | Data Models | Experimental Design | Agile Design | Problem Solving | Artificial Intelligence (AI) | Machine Learning | Algorithms | Neural Networks | Deep Learning | Supervised & Unsupervised Learning | Predictive Modeling | Statistical Modeling | Regression Models | Natural Language Processing (NLP) 
 
 - 🔭 I’m currently working on this page. 
