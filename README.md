@@ -1,6 +1,7 @@
+![Beige Modern Elegant Personal LinkedIn Banner](https://github.com/dkham/dkham/assets/72950291/bf73aa38-8a5f-49a7-b27c-cdcb8bbca997)
+
 ### Hi there 👋, my name is Daisy 🌸
 #### I am passionate Data Scientist
-![data-scientist-word-banner-vector](https://github.com/dkham/dkham/assets/72950291/c3bd39a5-14b2-4c99-9b69-b379c5bd3b28)
 
 I have a recent Master's Degree in Data Science from UC Berkeley and over a decade of expertise in analytics, metric development, and comprehensive evaluations for continuous improvement within the social sector. I am eager to be applying my skill set to the tech space. 
 
@@ -40,6 +41,7 @@ I've always considered myself a dog person, until this beautiful thing came into
 
 
 ![uc-berkeley-logo-seal_2](https://github.com/dkham/dkham/assets/72950291/5ad186e5-859c-4a89-a33d-69776f18cc7b)
+
 
 
 <!--
