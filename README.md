@@ -1,7 +1,7 @@
 ![Beige Modern Elegant Personal LinkedIn Banner](https://github.com/dkham/dkham/assets/72950291/bf73aa38-8a5f-49a7-b27c-cdcb8bbca997)
 
-### Hi there 👋, my name is Daisy 🌸
-#### I am passionate Data Scientist
+### Hi 👋, my name is Daisy 🌸
+#### I am a passionate Data Scientist
 
 I have a recent Master's Degree in Data Science from UC Berkeley and over a decade of expertise in analytics, metric development, and comprehensive evaluations for continuous improvement within the social sector. I am eager to be applying my skill set to the tech space. 
 
