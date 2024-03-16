@@ -7,7 +7,13 @@ I have a recent Master's Degree in Data Science from UC Berkeley and over a deca
 
 My proficiency spans *AI, Machine Learning, Predictive Analytics, Data Pipelines*, demonstrated through successful project execution with cutting-edge technologies. I specialize in leveraging advanced techniques for actionable insights and meaningful outcomes. My unwavering passion for data-driven decision-making drives me to continually push boundaries and deliver impactful solutions.
 
-**Technical Skills:** Python / SQL / R / HTML
+**Technical Skills:** 
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+**ML:**  
+
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  	![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  	![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
 
 **Professional Skills:** Data Science | Data Analysis | Product Analysis | Advanced Analytics | Business Intelligence (BI) | Performance Metrics | Project Management | Probability/Statistics | Data Engineering | Feature Engineering | Data Visualization | Data Architecture | Data Management | Data Governance | Data Models | Experimental Design | Agile Design | Problem Solving | Artificial Intelligence (AI) | Machine Learning | Algorithms | Neural Networks | Deep Learning | Supervised & Unsupervised Learning | Predictive Modeling | Statistical Modeling | Regression Models | Natural Language Processing (NLP) 
 
